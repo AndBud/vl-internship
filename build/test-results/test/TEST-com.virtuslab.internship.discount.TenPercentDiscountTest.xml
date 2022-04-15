@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.virtuslab.internship.discount.TenPercentDiscountTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-04-15T12:02:45" hostname="andrzej-desktop" time="0.034">
+  <properties/>
+  <testcase name="shouldNotApply10PercentDiscountWhenPriceIsBelow50()" classname="com.virtuslab.internship.discount.TenPercentDiscountTest" time="0.018"/>
+  <testcase name="shouldApply10PercentDiscountWhenPriceIsAbove50()" classname="com.virtuslab.internship.discount.TenPercentDiscountTest" time="0.002"/>
+  <system-out><![CDATA[14:02:45.412 [Test worker] DEBUG org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@36804139
+14:02:45.421 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+14:02:45.453 [Test worker] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner - Identified candidate component class: file [/home/andrzej/Documents/Work/VL_Internship/vl-internship-master/build/classes/java/main/com/virtuslab/internship/discount/DiscountHandler.class]
+14:02:45.453 [Test worker] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner - Identified candidate component class: file [/home/andrzej/Documents/Work/VL_Internship/vl-internship-master/build/classes/java/main/com/virtuslab/internship/discount/FifteenPercentDiscount.class]
+14:02:45.453 [Test worker] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner - Identified candidate component class: file [/home/andrzej/Documents/Work/VL_Internship/vl-internship-master/build/classes/java/main/com/virtuslab/internship/discount/TenPercentDiscount.class]
+14:02:45.500 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+14:02:45.501 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+14:02:45.502 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+14:02:45.503 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+14:02:45.506 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalPersistenceAnnotationProcessor'
+14:02:45.509 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'discountConfig'
+14:02:45.512 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'discountHandler'
+14:02:45.519 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'tenPercentDiscount'
+14:02:45.520 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'fifteenPercentDiscount'
+14:02:45.551 [Test worker] DEBUG org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@2a3591c5
+14:02:45.552 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+14:02:45.555 [Test worker] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner - Identified candidate component class: file [/home/andrzej/Documents/Work/VL_Internship/vl-internship-master/build/classes/java/main/com/virtuslab/internship/discount/DiscountHandler.class]
+14:02:45.555 [Test worker] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner - Identified candidate component class: file [/home/andrzej/Documents/Work/VL_Internship/vl-internship-master/build/classes/java/main/com/virtuslab/internship/discount/FifteenPercentDiscount.class]
+14:02:45.556 [Test worker] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner - Identified candidate component class: file [/home/andrzej/Documents/Work/VL_Internship/vl-internship-master/build/classes/java/main/com/virtuslab/internship/discount/TenPercentDiscount.class]
+14:02:45.558 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+14:02:45.558 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+14:02:45.559 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+14:02:45.559 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+14:02:45.559 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalPersistenceAnnotationProcessor'
+14:02:45.560 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'discountConfig'
+14:02:45.560 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'discountHandler'
+14:02:45.561 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'tenPercentDiscount'
+14:02:45.561 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'fifteenPercentDiscount'
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

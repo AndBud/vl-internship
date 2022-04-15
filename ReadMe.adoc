@@ -1,0 +1,8 @@
+Few comments to the project.
+
+1. I'm using public classes following the example, I don't really like that implementation.
+2. Due to the lack of time not all possible tests are written so some runtime errors can occur.
+3. Sadly I never worked with e-commerce applications so the solution I submit is not working as one.
+4. I tried to convert my project into Spring application but due to lack of knowledge and limited time I failed to do so.
+
+I hope even tho my project is not what it should be you'll consider my application for internship.
